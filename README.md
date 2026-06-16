@@ -1,11 +1,12 @@
 <h1 align="center">Ahmed Maher Sallam</h1>
 <h3 align="center">Full-Stack Engineer · Backend-Focused · Node.js · NestJS · Angular</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmedmaherdev&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmaherdev" />
 </p>
-
 <p align="center">
+  <a href="https://personal-portfolio-seven-ivory-36.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2EA44F?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://linkedin.com/in/ahmedmaherdev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-ahmedmaherdev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -19,6 +20,8 @@
     <img src="https://img.shields.io/badge/LeetCode-ahmedmaherdev-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
+
+---
 
 ---
 
@@ -124,5 +127,3 @@ Microservices-based academic management system exploring relational vs. NoSQL da
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/ahmedmaherdev?theme=dark" alt="LeetCode Stats" />
 </p>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2EA44F?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-portfolio-seven-ivory-36.vercel.app)
