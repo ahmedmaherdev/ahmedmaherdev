@@ -124,3 +124,5 @@ Microservices-based academic management system exploring relational vs. NoSQL da
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/ahmedmaherdev?theme=dark" alt="LeetCode Stats" />
 </p>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2EA44F?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-portfolio-seven-ivory-36.vercel.app)
