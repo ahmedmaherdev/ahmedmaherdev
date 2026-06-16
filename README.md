@@ -27,7 +27,7 @@
 
 ## About Me
 
-Full-Stack Engineer with a strong backend focus and 2+ years of production experience building scalable, high-performance systems for SaaS platforms. I specialize in Node.js ecosystems (NestJS, Express.js), designing RESTful APIs, event-driven architectures, and modular monorepo systems that serve enterprise clients at scale.
+Full-Stack Engineer with a strong backend focus and 3+ years of production experience building scalable, high-performance systems for SaaS platforms. I specialize in Node.js ecosystems (NestJS, Express.js), designing RESTful APIs, event-driven architectures, and modular monorepo systems that serve enterprise clients at scale.
 
 I care deeply about clean architecture, system reliability, and code quality — and I thrive in collaborative, cross-functional teams where backend ownership and architectural thinking matter.
 
